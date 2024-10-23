@@ -1,1 +1,1 @@
-# Movie_Recommender_System
+ A comprehensive machine learning project focused on building a robust movie recommender system. This project was an incredible journey from data preprocessing to deploying the model with a user-friendly interface using Streamlit.
